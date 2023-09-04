@@ -13,6 +13,8 @@ For a full list of screenshots, refer to the **[ScreenShot](https://github.com/K
     <img src="https://github.com/KiarashKiani79/SnapMap/blob/main/ScreenShots/detail1.jpg" width="200"/>
   <img src="https://github.com/KiarashKiani79/SnapMap/blob/main/ScreenShots/adderror.jpg" width="200"/>
   <img src="https://github.com/KiarashKiani79/SnapMap/blob/main/ScreenShots/detail2.jpg" width="200"/>
+    <img src="https://github.com/KiarashKiani79/SnapMap/blob/main/ScreenShots/add.jpg" width="200"/>
+    <img src="https://github.com/KiarashKiani79/SnapMap/blob/main/ScreenShots/deletePlace.jpg" width="200"/>
 </div>
 
 ## Features
